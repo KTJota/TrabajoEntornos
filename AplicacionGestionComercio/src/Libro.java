@@ -1,5 +1,5 @@
 
-public class Libro implements Producto{
+public class Libro extends Producto{
     private String autor;
     private int paginas;
     private String tipo;
