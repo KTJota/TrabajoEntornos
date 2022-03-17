@@ -1,6 +1,4 @@
 
-package com.mycompany.entornos;
-
 public class Libro implements Producto{
     private String autor;
     private int paginas;
