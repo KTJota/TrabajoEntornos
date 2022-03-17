@@ -11,7 +11,7 @@
 public class Empleado /*extends Comercio*/{
     private String nombre;
     private double sueldo;
-    
+    private String sexo;
     //Constructor principal
     public Empleado(String n, double s){
         nombre=n;
@@ -25,6 +25,10 @@ public class Empleado /*extends Comercio*/{
 
     public double getSueldo() {
         return sueldo;
+    }
+    
+    public String getSexo(){
+        return sexo;
     }
     
 }
