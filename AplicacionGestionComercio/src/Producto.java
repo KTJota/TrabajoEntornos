@@ -8,7 +8,7 @@
  *
  * @author jmuela
  */
-public abstract class Producto {  //texto de prueba
+public abstract class Producto {  //texto de prueba 232
     private String nombre;
     private double precio;
     private int cantidad;
