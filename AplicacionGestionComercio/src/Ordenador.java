@@ -11,7 +11,7 @@ import java.util.ArrayList;
  *
  * @author usuario
  */
-public class Ordenador extends Producto {
+public class Ordenador extends Producto {  //empleado cliente
     
     /**
      * Almacena el tamaño (int) del ordenador
